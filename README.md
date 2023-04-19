@@ -1,1 +1,3 @@
-# im-app
+- download
+- input firebase config into firebase.js
+- npm start
